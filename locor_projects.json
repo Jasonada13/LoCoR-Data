@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Urban Green Spaces and Community Wellbeing",
+    "description": "Investigating the impact of urban green spaces on mental health and community cohesion in post-industrial cities. This comprehensive study examines how access to parks, community gardens, and green corridors affects residents' psychological wellbeing and social connections.",
+    "year": "2024",
+    "category": "Urban Studies",
+    "status": "Active",
+    "team": "Dr. Sarah Johnson, Prof. Michael Chen, Dr. Elena Rodriguez",
+    "links": "https://example.com/urban-green-study",
+    "tags": "mental health, urban planning, community development, environmental psychology"
+  },
+  {
+    "title": "Digital Literacy in Rural Communities",
+    "description": "Exploring barriers to digital inclusion and developing community-based solutions for improving digital literacy in rural and remote areas. The project focuses on understanding local contexts and creating sustainable digital education programs.",
+    "year": "2024",
+    "category": "Digital Inclusion",
+    "status": "Active",
+    "team": "Prof. David Williams, Dr. Rachel Thompson, Dr. James Liu",
+    "links": "https://example.com/digital-literacy-rural",
+    "tags": "digital divide, rural development, education, technology access"
+  },
+  {
+    "title": "Climate Adaptation Strategies for Coastal Communities",
+    "description": "Collaborative research with coastal communities to develop locally-appropriate climate adaptation strategies. This participatory research project works directly with residents to understand their experiences and co-create solutions.",
+    "year": "2023",
+    "category": "Climate Research",
+    "status": "Completed",
+    "team": "Dr. Maria Santos, Prof. Andrew Taylor, Dr. Priya Patel",
+    "links": "https://example.com/coastal-adaptation",
+    "tags": "climate change, community resilience, coastal management, participatory research"
+  },
+  {
+    "title": "Heritage Language Preservation",
+    "description": "Working with immigrant communities to document and preserve heritage languages through community-led digital storytelling projects. The research explores how digital technologies can support intergenerational language transmission.",
+    "year": "2023",
+    "category": "Cultural Studies",
+    "status": "Active",
+    "team": "Dr. Lisa Chang, Prof. Roberto Martinez, Dr. Amina Hassan",
+    "links": "https://example.com/heritage-language",
+    "tags": "language preservation, digital storytelling, immigrant communities, cultural heritage"
+  },
+  {
+    "title": "Food Security and Local Food Systems",
+    "description": "Examining local food systems and their role in addressing food security challenges in urban and rural contexts. The study includes analysis of food banks, community gardens, and local food distribution networks.",
+    "year": "2024",
+    "category": "Food Systems",
+    "status": "Active",
+    "team": "Prof. Emma Wilson, Dr. Carlos Mendez, Dr. Hannah Foster",
+    "links": "https://example.com/food-security-study",
+    "tags": "food security, local food systems, community resilience, urban agriculture"
+  },
+  {
+    "title": "Youth Civic Engagement in Post-Pandemic Communities",
+    "description": "Investigating how the COVID-19 pandemic has affected youth civic engagement and exploring innovative approaches to re-engaging young people in community leadership and social action.",
+    "year": "2023",
+    "category": "Youth Studies",
+    "status": "Completed",
+    "team": "Dr. Kevin Park, Prof. Sandra Miller, Dr. Fatima Al-Rashid",
+    "links": "https://example.com/youth-civic-engagement",
+    "tags": "youth development, civic engagement, community leadership, post-pandemic recovery"
+  },
+  {
+    "title": "Housing Affordability and Community Displacement",
+    "description": "Comprehensive analysis of housing affordability challenges and their impact on community stability. The research examines policy interventions and community-led solutions to prevent displacement.",
+    "year": "2024",
+    "category": "Housing Studies",
+    "status": "Planned",
+    "team": "Prof. Catherine Brown, Dr. Miguel Rodriguez, Dr. Jennifer Kim",
+    "links": "https://example.com/housing-affordability",
+    "tags": "housing policy, gentrification, community displacement, affordable housing"
+  },
+  {
+    "title": "Mental Health Support in Underserved Communities",
+    "description": "Developing culturally-responsive mental health support programs in partnership with underserved communities. The project focuses on community-based peer support models and reducing barriers to mental health services.",
+    "year": "2023",
+    "category": "Health Research",
+    "status": "Active",
+    "team": "Dr. Nicole Davis, Prof. Ahmad Malik, Dr. Grace Thompson",
+    "links": "https://example.com/mental-health-support",
+    "tags": "mental health, community health, peer support, health equity"
+  }
+]
